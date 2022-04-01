@@ -1,4 +1,5 @@
-### Well hello there!
+### Moja wersja
+### ctrl+shift+p -> clone -> link do projektu
 
 This repository is meant to provide an example for *forking* a repository on GitHub.
 
